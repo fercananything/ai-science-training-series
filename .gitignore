@@ -82,3 +82,4 @@ scratch/
 # Misc
 .DS_Store
 .vscode
+04_intro_to_llms/my_local_model/model.safetensors
